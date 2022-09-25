@@ -1,7 +1,7 @@
 # autobump
 An exteremely unoptimized script to automatically bump a server via Disboard
 
-## PLEASE DO NOT USE THIS. AUTOMATING ACCOUNTS BREAKS DISCORD TOS AND AUTOMATIC BUMPING IS AGAINST DISBOARD'S RULES. THIS IS SIMPLY A PROOF OF CONCEPT AND TEST OF DISCUM  
+## Warning: Automating accounts breaks Discord's TOS and automated bumping breaks Disboard's rules. This will, in it's current state, probably get your account and server banned.
 
 ## Important info:
 Use the following command to install the required discum library: ```python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum```  
